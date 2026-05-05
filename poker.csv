@@ -1,0 +1,16 @@
+Key,English(en),Hindi(hi),Japanese(ja)
+menu.login.username,Username,उपयोगकर्ता नाम,ユーザー名
+menu.login.password,Password,पासवर्ड,パスワード
+menu.login.rememberme,Remember,याद करना,覚えて
+menu.login.loginbtn,Login,लॉग इन करें,ログイン
+menu.register.reenter,Again,दोबारा,また
+menu.register.registerbtn,Register,पंजीकरण करवाना,登録する
+home.hamburger.sound,Sound,आवाज़,音
+home.hamburger.accountSettings,Account Settings,अकाउंट सेटिंग,アカウント設定
+home.hamburger.systemSettings,System Settings,सिस्टम सेटिंग्स,システム設定
+home.hamburger.toc,Terms of Service,सेवा की शर्तें,利用規約
+home.hamburger.privacyPolicy,Privacy Policy,गोपनीयता नीति,プライバシーポリシー
+home.hamburger.fairGaming,Fair Gaming,निष्पक्ष गेमिंग,フェアゲーミング
+home.hamburger.contactUs,Contact Us,हमसे संपर्क करें,お問い合わせ
+home.hamburger.notice,Notice,सूचना,知らせ
+home.hamburger.logout,Log Out,लॉग आउट,ログアウト
